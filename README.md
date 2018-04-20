@@ -14,7 +14,7 @@ k3i = f(xi + h/2 , yi + h/2k2i);
 k4i = f(xi+h, yi +hk3i);
 yi=yi-1 + h*(k1i + 2*k2i + 2*k3i + k4i)/6;
 
-![alt text] (https://github.com/BeardedWhale/Approximation-methods-for-differential-equations/blob/master/function%20chart.png)
-![Screenshot](function chart.png)
+![alt text](https://github.com/BeardedWhale/Approximation-methods-for-differential-equations/blob/master/function%20chart.png)
+![Screenshot](https://github.com/BeardedWhale/Approximation-methods-for-differential-equations/blob/master/function%20chart.png)
 Error charts: 
 
