@@ -22,5 +22,5 @@ Error chart example:
 
 Trauncation error chart screenshot:
 
-![Truncation error chart](https://github.com/BeardedWhale/Approximation-methods-for-differential-equations/blob/master/truncation%20chart.png)
+![Truncation error chart](https://github.com/BeardedWhale/Approximation-methods-for-differential-equations/blob/master/truncation%20error.png)
 
